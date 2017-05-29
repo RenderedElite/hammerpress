@@ -1,0 +1,20 @@
+/*
+Theme Name: hammerpress
+Theme URI: https://github.com/RenderedElite/hammerpress
+Author: David Ferrell
+Author URI: http://david.dnhwebservices.com/
+Description: A WordPress theme for construction, architecture, and home improvement related websites. Widget areas for Adsense and other ads in the post pages. Sticky left sidebar, and WP Customize options for background options, colors, logo, and more. Site descriptions displays in HammerPress. Theme can be used for blogging and/or business purposes.
+Version: 1.0
+License: GNU General Public License
+License URI: https://www.gnu.org/licenses/gpl.html
+Tags: black, orange, white, light, two-column, fluid-layout, responsive-layout, custom-menu, featured-images, microformats, sticky-post, threaded-comments, translation-ready
+Text Domain: hammerpress
+
+HammerPress WordPress Theme © 2017 David Ferrell
+HammerPress is distributed under the terms of the GNU GPL
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Cardo|Pathway+Gothic+One');
+
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{font-size:100%;font:inherit;padding:0;border:0;margin:0;vertical-align:baseline}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:collapse;border-spacing:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}.clear{clear:both}
+.sticky{}.bypostauthor{}.wp-caption{}.wp-caption-text{}.gallery-caption{}.alignright{}.alignleft{}.aligncenter{}.screen-reader-text{clip:rect(1px, 1px, 1px, 1px);position:absolute !important}
